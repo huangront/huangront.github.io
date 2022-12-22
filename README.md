@@ -35,7 +35,7 @@ A very simple Hexo theme.
     tags: /tags
     search: /search
     about: /about
-    # archives: /archives
+    archives: /archives
   ```
 
 

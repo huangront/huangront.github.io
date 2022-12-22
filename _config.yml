@@ -8,7 +8,7 @@ menu:
   tags: /tags
   search: /search
   about: /about
-  archives: /archives
+  # archives: /archives
 
 # Miscelaneous
 favicon: /logo.png
